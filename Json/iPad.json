@@ -1,0 +1,63 @@
+{
+    "color":[
+        {
+            "option":"太空灰色",
+            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi.jpg",
+            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV1.jpg",
+            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV2.jpg",
+            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-space-gray-wificell.jpg"
+        },
+        {
+            "option":"藍色",
+            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi.jpg",
+            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi_AV1.jpg",
+            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi_AV2.jpg",
+            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-blue-wificell.jpg"
+        },
+        {
+            "option":"粉紅色",
+            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi.jpg",
+            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi_AV1.jpg",
+            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi_AV2.jpg",
+            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-pink-wificell.jpg"
+        },
+        {
+            "option":"紫色",
+            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi.jpg",
+            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi_AV1.jpg",
+            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi_AV2.jpg",
+            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-purple-wificell.jpg"
+        },
+        {
+            "option":"星光色",
+            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi.jpg",
+            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV1.jpg",
+            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV2.jpg",
+            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-starlight-wificell.jpg"
+        }
+    ],
+    "capacity":[
+        {
+            "option":"64GB",
+            "description":"NT$19,900 起",
+            "price":19900
+        },
+        {
+            "option":"256GB",
+            "description":"NT$24,900 起",
+            "price":24900
+        }
+    ],
+    "network_capability":[
+        {
+            "option":"Wi-Fi",
+            "description":"每部 iPad 都可連接到 Wi-Fi 網路，使你能保持連線。 ",
+            "price":0
+        },
+        {
+            "option":"Wi-Fi + 行動網路",
+            "description":"Wi-Fi + 行動網路機型讓你在無法使用 Wi-Fi 時也能進行連線。",
+            "price":5000
+        }
+    ]
+}
