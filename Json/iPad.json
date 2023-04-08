@@ -2,38 +2,38 @@
     "color":[
         {
             "option":"太空灰色",
-            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi.jpg",
-            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV1.jpg",
-            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV2.jpg",
-            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-space-gray-wificell.jpg"
+            "url_front":"./img/ipad-air-finish-select-gallery-202211-space-gray-wifi.jpg",
+            "url_back":"./img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV1.jpg",
+            "url_alter":"./img/ipad-air-finish-select-gallery-202211-space-gray-wifi_AV2.jpg",
+            "url_whole_back":"./img/ipad-air-engraving-select-202207-space-gray-wificell.jpg"
         },
         {
             "option":"藍色",
-            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi.jpg",
-            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi_AV1.jpg",
-            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-blue-wifi_AV2.jpg",
-            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-blue-wificell.jpg"
+            "url_front":"./img/ipad-air-finish-select-gallery-202211-blue-wifi.jpg",
+            "url_back":"./img/ipad-air-finish-select-gallery-202211-blue-wifi_AV1.jpg",
+            "url_alter":"./img/ipad-air-finish-select-gallery-202211-blue-wifi_AV2.jpg",
+            "url_whole_back":"./img/ipad-air-engraving-select-202207-blue-wificell.jpg"
         },
         {
             "option":"粉紅色",
-            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi.jpg",
-            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi_AV1.jpg",
-            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-pink-wifi_AV2.jpg",
-            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-pink-wificell.jpg"
+            "url_front":"./img/ipad-air-finish-select-gallery-202211-pink-wifi.jpg",
+            "url_back":"./img/ipad-air-finish-select-gallery-202211-pink-wifi_AV1.jpg",
+            "url_alter":"./img/ipad-air-finish-select-gallery-202211-pink-wifi_AV2.jpg",
+            "url_whole_back":"./img/ipad-air-engraving-select-202207-pink-wificell.jpg"
         },
         {
             "option":"紫色",
-            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi.jpg",
-            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi_AV1.jpg",
-            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-purple-wifi_AV2.jpg",
-            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-purple-wificell.jpg"
+            "url_front":"./img/ipad-air-finish-select-gallery-202211-purple-wifi.jpg",
+            "url_back":"./img/ipad-air-finish-select-gallery-202211-purple-wifi_AV1.jpg",
+            "url_alter":"./img/ipad-air-finish-select-gallery-202211-purple-wifi_AV2.jpg",
+            "url_whole_back":"./img/ipad-air-engraving-select-202207-purple-wificell.jpg"
         },
         {
             "option":"星光色",
-            "url_front":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi.jpg",
-            "url_back":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV1.jpg",
-            "url_alter":"./assets/img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV2.jpg",
-            "url_whole_back":"./assets/img/ipad-air-engraving-select-202207-starlight-wificell.jpg"
+            "url_front":"./img/ipad-air-finish-select-gallery-202211-starlight-wifi.jpg",
+            "url_back":"./img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV1.jpg",
+            "url_alter":"./img/ipad-air-finish-select-gallery-202211-starlight-wifi_AV2.jpg",
+            "url_whole_back":"./img/ipad-air-engraving-select-202207-starlight-wificell.jpg"
         }
     ],
     "capacity":[
