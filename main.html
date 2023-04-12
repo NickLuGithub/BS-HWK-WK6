@@ -66,7 +66,7 @@
 
     <script>
         let imgHTML, textHTML;
-        let jsonData, jsonOBJ;
+        var jsonData, jsonOBJ;
         let xhr = new XMLHttpRequest();
         let jsonURL = 'https://raw.githubusercontent.com/NickLuGithub/BS-HWK-WK6/master/Json/iPad.json';
 
@@ -76,12 +76,11 @@
             textHTML = document.querySelector(".container .text");
 
             // set start view
-            getRequest();
+            jsonData = getRequest();
+            console.log(jsonData)
         }
 
-        function initByView() {
-            
-        }
+        function initByView() {}
         
         function getRequest() {
             xhr.onload = function() {
@@ -89,12 +88,24 @@
                 jsonData = this;
 
                 console.log(this);
-                console.log(jsonData);
+
+                return this;
             }
 
             xhr.open('GET', jsonURL);
             xhr.responseType = 'json'
             xhr.send();
+        }
+
+        function setImg(url) {
+            let img = document.createElement('img');
+            img.src = url;
+            return img;
+        }
+        function setText(data) {
+            let text = document.createElement('div');
+            text.innerText = data;
+            return text;
         }
 
     </script>
